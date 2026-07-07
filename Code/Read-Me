@@ -1,3 +1,5 @@
 Here contain the code of my Qbot
 I use the header and cpp formatting so that the code did not jungle up in one big file. 
 If you wanted to use or modify, Download this folder as a zip the open it.
+Also download the file that allow MPU6050 to the ESP32C3 in this 
+link https://github.com/jrowberg/i2cdevlib (click arduino then MPU6050)
