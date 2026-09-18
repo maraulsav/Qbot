@@ -2,8 +2,8 @@
 Qbot is a self balancing robot that integrate PID mechanism to balances.
 
 The Final Design:
+<img width="476" height="488" alt="image" src="https://github.com/user-attachments/assets/d5a7f058-388c-4f33-a381-da5d9b55cd10" />
 
-<img width="332" height="287" alt="Screenshot 2026-07-08 at 08 17 46" src="https://github.com/user-attachments/assets/b72bf346-7e2d-4ff7-86d7-83455387913a" />
 
 ## Key Features
 * **ESP32 DevKit C** is the main microcontroller allowing wifi connection for remote controller
