@@ -96,4 +96,4 @@ Code Sample:
 | Active Buzzer | 1 | 5,000 | $0.28 | [Link](https://www.tokopedia.com/azzamarduino/buzzer-speaker-aktif-active-dc-3v-24v-sfm-27-3cm-input-3v-5v-12v-bunyi?extParam=ivf%3Dfalse%26keyword%3Dbuzzer%26search_id%3D20260708005325CD00692C3BFE5926FWW3%26src%3Dsearch&t_id=1783310432964&t_st=17&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result) |
 | XT30 Amass Connector | 1 | 8,500 | $0.47 | [Link](https://www.tokopedia.com/arduinonano/amass-connector-plug-xt30u-amass-xt-30-u-konektor-for-power-1732555087363605613?extParam=ivf%3Dfalse%26keyword%3Damass+connector%26search_id%3D202607080057278BF1211FD4B7B91A5G6M%26src%3Dsearch&t_id=1783310432964&t_st=19&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result) |
 | 3D Printed Parts | — | — | $9.00 | — |
-| **Total** | | **IDR2.098.799,74** | **USD 117.83** | |
+| **Total** | | **IDR2.049.638** | **USD 115.07** | |
